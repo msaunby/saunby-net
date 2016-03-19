@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Speaking and outreach things, such as hackathons get a brief note here. Stuff I'm making is more likely to be covered in my
   blog <a href='http://mike.saunby.net'>mike.saunby.net</a>
 baseurl: "/saunby-net" # the subpath of your site, e.g. /blog
-url: "http://msaunby.github.io/" # the base hostname & protocol for your site
+url: "http://msaunby.github.io" # the base hostname & protocol for your site
 twitter_username: msaunby
 github_username:  msaunby
 
