@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "2016 projects"
+date:   2016-01-02 08:00:00 +0000
+image: https://farm2.staticflickr.com/1558/25284374423_b6055d8ea8_n.jpg
+categories: msaunby
+---
+
+
+### January
+January 16-17. GloFAS #FloodHack at ECMWF
+Results at [www.globalfloods.eu](http://www.globalfloods.eu/news/40-results-of-the-first-hackathon-of-glofas-floodhack/)   
+
+### February
+February 25. [CIHT SW Region Annual Conference: Better Informed, Better Connected](http://www.ciht.org.uk/en/media-centre/news/index.cfm/south-west-region-annual-conference-2016-better-informed-better-connected)
+
+### March
+March 18. Rhino hack at Paignton Zoo
+
+### April
+April 15. TEDx Exeter
+
+April 22-24. [International Space Apps Challenge](https://2016.spaceappschallenge.org/)
+
+April 26-27. [Open Innovation Summit, London](https://theinnovationenterprise.com/summits/open-innovation-summit-london-2016)
+
+### May
+May 5-7. Mozilla Retreat, Berlin
+
+May 12. [Real IT Awards](http://www.real-it-awards.co.uk/awards-2016.html)
+
+### September
+Digital Design Weekend. V&A, London
+
+### October
+October 8-9. [Open Data Science Conference](http://odsc.com/london)
+
+October 28-30. [Mozilla Festival, London](https://wiki.mozilla.org/Mozfest/2016)
+
+### November
+November 1-4. [The Graphical Web 2016. Met Office, Exeter](http://2016.graphicalweb.org/)

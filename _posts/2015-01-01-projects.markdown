@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "2015 projects"
+date:   2015-01-02 08:00:00 +0000
+image: https://farm1.staticflickr.com/645/22937405270_c99fcb0349_z.jpg
+categories: msaunby
+---
+
+### March
+March 2015. Eco Viz - Tansley Working Group
+
+### April
+April 2015. International Space Apps Challenge 2015 Exeter
+
+April 30, 2015. Open Innovation Summit, London
+
+### May
+May 5, 2015. RAMM, Exeter
+
+### June
+June 4-5, 2015. Mozilla Science Global Sprint
+
+### September
+September 2015. V&A Digital Design Weekend, London
+
+### November
+November 2015. Mozilla Festival, London <br>
+[Schedule](https://app.mozillafestival.org/)

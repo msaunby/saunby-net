@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "2014 projects"
+date:   2014-01-02 08:00:00 +0000
+image: https://pbs.twimg.com/media/BnbfxgkCUAA8na7.jpg
+categories: msaunby
+---
+
+### February
+February 22-23, 2014. SciActiHack at Brighton Science Festival
+
+### April
+April 12-13, 2014. International Space Apps Challenge, Exeter and London
+
+### May
+May 12, 2014. Beautiful Science inspired 'Why is science beautiful?' workshop at the British Library
+
+May 20-21, 2014. ECEHH Workshop: [Visualising Climate Change](http://www.ecehh.org/events/visualising-climate/)
+
+
+### September
+September 3-4 2014. Strange Weather at the Science Gallery, Dublin
+
+September 20-21, 2014. V&A Digital Design Weekend, London
+
+### October
+October 17-19, 2014. Connected Exeter
+
+October 24-26, 2014. Mozilla Festival, London
