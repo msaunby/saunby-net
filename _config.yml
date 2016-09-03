@@ -15,6 +15,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.saunby.net" # the base hostname & protocol for your site
 twitter_username: msaunby
 github_username:  msaunby
+collections:
+  archive:
+    output: true
+
 
 # Build settings
 markdown: kramdown
+
