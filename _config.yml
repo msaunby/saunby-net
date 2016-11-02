@@ -16,6 +16,8 @@ url: "http://www.saunby.net" # the base hostname & protocol for your site
 twitter_username: msaunby
 github_username:  msaunby
 collections:
+  recent:
+    output: true
   archive:
     output: true
 
