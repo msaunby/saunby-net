@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "2017 projects"
+date:   2017-01-01 08:00:00 +0000
+image: images/ecmwf-data.jpg
+categories: msaunby
+---
+
+
+### March
+March 4-5. [#OpenDataHack at ECMWF](https://ecmwf-opendatahack.devpost.com/)
+
+
+### September
+Digital Design Weekend. V&A, London
+
+### October
+Mozilla Festival
+
+
