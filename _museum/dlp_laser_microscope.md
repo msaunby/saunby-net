@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Software defined bat detector"
+title:  "DLP laser microscope"
 date:   2014-01-02 08:00:00 +0000
-image: images/20140521_131314.jpg
+image: images/missing.jpg
 categories: museum
 ---
 
-### Software defined bat detector
+### DLP laser microscope
+
 
