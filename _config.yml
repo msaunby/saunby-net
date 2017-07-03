@@ -20,6 +20,8 @@ collections:
     output: true
   archive:
     output: true
+  museum:
+    output: true
 
 
 # Build settings

@@ -2,7 +2,7 @@
 layout: post
 title:  "Open Innovators, MozFest 2016"
 date:   2016-09-02 08:00:00 +0000
-image: images/brainstorm.png
+image: images/open_inno_mozfest.jpg
 categories: msaunby
 ---
 
