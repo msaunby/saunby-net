@@ -2,7 +2,7 @@
 layout: post
 title:  "USB powered valve/tube amplifer"
 date:   2014-01-02 08:00:00 +0000
-image: ../images/usb_valve_amp.jpg
+image: images/usb_valve_amp.jpg
 categories: museum
 ---
 
