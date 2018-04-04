@@ -4,7 +4,7 @@ Saunby.net website for Michael Saunby
 Local install
 $ sudo apt-get install ruby-dev
 
-$ gem install bundler
+$ sudo apt install ruby-bundler
 
 $ bundle install
 
