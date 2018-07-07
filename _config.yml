@@ -9,8 +9,7 @@
 title: Saunby.net
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm Michael Saunby. Public speaking and outreach things, such as hackathons, get a brief note here. 
-  For human-centric lighting projects see <a href='http://www.nano-lit.com'>nano-lit.com</a>
+  I'm Michael Saunby. Public speaking and outreach things, such as hackathons, get a brief note here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.saunby.net" # the base hostname & protocol for your site
 twitter_username: msaunby
