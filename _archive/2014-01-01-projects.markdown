@@ -7,7 +7,7 @@ categories: msaunby
 ---
 
 ### February
-February 22-23, 2014. SciActiHack at Brighton Science Festival
+February 22-23, 2014. [SciActiHack at Brighton Science Festival](http://www.lighthouse.org.uk/programme/sciactihack)
 
 ### April
 April 12-13, 2014. [International Space Apps Challenge, Exeter and London](https://2014.spaceappschallenge.org/location/exeter/)
