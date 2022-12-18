@@ -16,7 +16,6 @@ url: "http://www.saunby.net" # the base hostname & protocol for your site
 social_links:
   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/michaelsaunby" }
  
-github_username:  msaunby
 collections:
   recent:
     output: true
@@ -29,3 +28,9 @@ collections:
 # Build settings
 markdown: kramdown
 
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
