@@ -23,6 +23,8 @@ collections:
     output: true
   museum:
     output: true
+  boggle:
+    output: true
 
 
 # Build settings
